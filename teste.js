@@ -12,7 +12,7 @@ sadasdasdasdasd
 sadsdasdasdasasdasd
 asdasda
 asdasdasdasd
-module.exportsmodule.exports
+module.exportsmodule.exportsasdasd
 asdasdasd
 asdasdasasdasdasd
 asdasdasd
