@@ -12,3 +12,4 @@ sadasdasdasdasd
 sadsdasdasdas
 asdasda
 asdasdasdasd
+module.exportsmodule.exports
